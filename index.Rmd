@@ -69,17 +69,60 @@ But…
 
 .pull-left[
 
+![](img/cheval.jpg)
+
+![]
 
 ]
 
 .pull-right[
 
+* Building a small team of dedicated riders: Laurent, Pierre, Pascal, Eda… and with the help of MySociety, Transparencia.be, Ouvre Boite…
+
+* Importing a quite massive database, the public service directory: 50k+ contacts 
+
+* Requesting CADA its own email database (PRADA): a request first refused then approved…
+
+* Explaining civil servants and citizens our approach based on publicity of exchanges…
+
 
 ]
 
 ---
+### Sucess stories: report on sanctions for welfare benefits
+
+![](img/rsa.png)
+> _"We assess that 115000 households are withdraw from the welfare revenues each year. […] "Thanks to Madada, almost all departments (101) have received our requests. After the legal deadline, only a third have give an acknowledgement of receipt (37) and 13 released the data."_ 
+
+---
+### Sucess stories: virus concentrations in sewage
+
+![](img/covid.png)
+
+---
+### Success stories: La Quadrature, tracking surveillance
 
 
+![](img/quadrature_.png)
+---
+### Success stories: ensuring transparency on public procurement and subsidies
+
+.pull-left[
+
+![](img/subs.png)
+
+
+]
+
+
+.pull-right[
+### _**In a nutshell, among 188 requests sent to departmental councils, we have received only 61 positive answer, less than 32%.**_
+
+
+]
+
+
+---
 class: center, middle
 
 # Thanks!
