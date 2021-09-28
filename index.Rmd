@@ -127,4 +127,4 @@ class: center, middle
 
 # Thanks!
 
-Let's discuss : hello /at / madada /dot/ fr
+Let's discuss : contact /at / madada /dot/ fr
